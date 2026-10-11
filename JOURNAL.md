@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 5.58h | 1 |
+| Week 1 | Tier 1 | 6.58h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-11 – ![image2 for halflife journal](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/aBsdGSPkkMgvu2IJQ7U2Yv3pOG8FFt1r/779121b5ab1679762331f2c4eed30672438a148831a05657b075f7d89f7feef0.png)
 
-**5.58h**
+**6.58h**
 
 ![image2 for halflife journal](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/aBsdGSPkkMgvu2IJQ7U2Yv3pOG8FFt1r/779121b5ab1679762331f2c4eed30672438a148831a05657b075f7d89f7feef0.png)
 I successfully completed the entire hardware design for my starbie in KiCad. I made the schematics whit all the components needed (the same as the guide) but had a lot of trouble whit the linking of the parts, first I taught  about attaching them but then I saw the guide and realized that for my schematics to be cleaner it needed to be like the guide, I need to do the labels and add the symbols.
