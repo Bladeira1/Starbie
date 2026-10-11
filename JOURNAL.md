@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 5h | 1 |
+| Week 1 | Tier 1 | 5.58h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-11 – ![image2 for halflife journal](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/aBsdGSPkkMgvu2IJQ7U2Yv3pOG8FFt1r/779121b5ab1679762331f2c4eed30672438a148831a05657b075f7d89f7feef0.png)
 
-**5h**
+**5.58h**
 
 ![image2 for halflife journal](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/aBsdGSPkkMgvu2IJQ7U2Yv3pOG8FFt1r/779121b5ab1679762331f2c4eed30672438a148831a05657b075f7d89f7feef0.png)
 I successfully completed the entire hardware design for my starbie in KiCad. I made the schematics whit all the components needed (the same as the guide) but had a lot of trouble whit the linking of the parts, first I taught  about attaching them but then I saw the guide and realized that for my schematics to be cleaner it needed to be like the guide, I need to do the labels and add the symbols.
@@ -33,3 +33,13 @@ I routed all the tracks by using both front and back copper layers whit vias and
 
 ![image4 for halflife journal](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/aBsdGSPkkMgvu2IJQ7U2Yv3pOG8FFt1r/c2b4f6195f96ade80f768d1bfca64120d4b9d43e4173e7aa808982d11f354808.png)
 ![image1 for halflife journal](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/aBsdGSPkkMgvu2IJQ7U2Yv3pOG8FFt1r/f5af783388949e9c6316229593a4d4ac3ef2079a6c7d6259b4ec1a8af17f019d.png)
+
+[Timelapse](https://lookout.hackclub.com/api/media/4f933767-1a4a-4d9c-aeaf-0001e68d610a/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/b83213ec-167b-407b-9407-94477e7213f0/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/f908761c-8e0b-4535-8dca-83f01c801814/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/eadda516-a156-476f-968f-2830f67fd066/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/b5fe7ce4-2ed0-46f1-be59-c411d6c58774/video.mp4)
