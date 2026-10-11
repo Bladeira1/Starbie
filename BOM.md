@@ -21,7 +21,7 @@
 | 10k Ohm Resistor | — | 1 | $0.10 | $0.10 | Digikey |
 | PCB Manufacturing | — | 1 | $5.00 | $5.00 | JLPCB |
 | **Parts subtotal** | — | — | — | **$25.58** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$25.58** | — |
+| **Tax & shipping** | — | — | — | **$6.00** | — |
+| **Total** | — | — | — | **$31.58** | — |
 
-$4.42 left of the tier's funding.
+**$1.58 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
